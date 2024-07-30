@@ -9,9 +9,9 @@
   />
 </h1>
 
-<h3 align="center">
-  Informatics Engineering Student at Mercu Buana University
-</h3>
+<h2 align="center">
+ A passionate web programmer from Indonesia 🌐
+</h2>
 
 <br />
 
