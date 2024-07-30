@@ -17,15 +17,15 @@
 
 <div align="center">
  
-    🔭 I’m currently a student at **Mercu Buana University**
-    
-    🌱 I’m currently learning **Laravel 11, React JS, MySQL**
-   
-    💬 Ask me about **Laravel 11, Blade, React**, or anything [here](https://github.com/ramaboy13/ramaboy13/issues)
-   
-    ⚡ Fun fact: **Rama is weak if he doesn't code**
-    
-</div>
+ 🔭 I’m currently a student at **Mercu Buana University**
+ 
+ 🌱 I’m currently learning **Laravel 11, MySQL, Reat JS**
+
+💬 Ask me about **Laravel 11, React, MySQL... or anything [here]([https://github.com/salesp07/salesp07/issues](https://github.com/ramaboy13/ramaboy13/issues))**
+
+⚡ Fun fact **Rama is weak if he doesn't code**
+
+ </div>
 
 <div align="center">
   <a href="mailto:baritosurya13@gmail.com">
