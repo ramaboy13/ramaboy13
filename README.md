@@ -16,11 +16,16 @@
 <br />
 
 <div align="center">
-  🔭 I’m currently working on **a marketplace** 🌱 I’m currently learning
-  **Express JS, React JS, ORM** 💬 Ask me about **Node.js, React, Firebase... or
-  anything [here](https://github.com/ramaboy13/ramaboy13/issues)** ⚡ Fun fact:
-  **Rama is weak if he doesn't code**
-</div>
+ 
+    🔭 I’m currently student at **Mercu Buana University**
+    
+    🌱 I’m currently learning **Laravel 11, React JS, MySQL**
+   
+   💬 Ask me about **Laravel 11, Blade, React... or anything [here](https://github.com/ramaboy13/ramaboy13/issues)**
+   
+   ⚡ Fun fact **Rama is weak if he doesn't code**
+   
+    </div>
 
 <div align="center">
   <a href="mailto:baritosurya13@gmail.com">
@@ -37,7 +42,7 @@
       target="_blank"
     />
   </a>
-  <a href="https://github.com/ramaboy13" target="_blank">
+  <a href="https://ramaboy13.github.io/LandingPage_Sederhana/" target="_blank">
     <img
       src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
       target="_blank"
