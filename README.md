@@ -60,7 +60,7 @@
   />
   <img
     src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,nextjs,mysql"
-  /><br />
+  />
 </div>
 
 <br />
