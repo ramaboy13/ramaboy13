@@ -10,7 +10,7 @@
 </h1>
 
 <h2 align="center">
- A passionate web programmer from Indonesia 🌐
+Informatics Engineering student at Mercu Buana University
 </h2>
 
 <br />
