@@ -42,7 +42,7 @@ Informatics Engineering student at Mercu Buana University
       target="_blank"
     />
   </a>
-  <a href="https://ramaboy13.github.io/LandingPage_Sederhana/" target="_blank">
+  <a href="https://ramaboy13.github.io/ramaboy.github.io/" target="_blank">
     <img
       src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"
       target="_blank"
