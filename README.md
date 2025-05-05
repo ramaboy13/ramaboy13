@@ -56,7 +56,7 @@ Informatics Engineering student at Mercu Buana University
 <br />
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=react,bootstrap,flutter,html,css,vscode,github,figma,tailwind,git"
+    src="https://skillicons.dev/icons?i=react,bootstrap,flutter,html,css,php,vscode,github,figma,tailwind,git"
   />
   <img
     src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,nextjs,mysql"
